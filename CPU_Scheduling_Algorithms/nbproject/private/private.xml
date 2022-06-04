@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/CPUScheduler.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/Row.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/Utility.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/PriorityPreemptive.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/ShortestRemainingTime.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/FirstComeFirstServe.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/ShortestJobFirst.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/RoundRobin.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/Event.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/PriorityNonPreemptive.java</file>
+            <file>file:/C:/Users/Sayed%20Abdulaziz/Downloads/CPUScheduler-master/src/Main.java</file>
+        </group>
+    </open-files>
+</project-private>
